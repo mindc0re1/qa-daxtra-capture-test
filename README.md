@@ -25,7 +25,8 @@ These scripts:
 - Add more test cases for complex scenarios.
 
 ## VIDEO
-[Link](https://drive.google.com/file/d/1prx0hkwdoEd5vE2C7I2p9Q3F50WHHI0A/view?usp=sharing]
+[Link](https://drive.google.com/file/d/1prx0hkwdoEd5vE2C7I2p9Q3F50WHHI0A/view?usp=sharing).
+
 
 ## Contact
-Reach me at [mrkursin@vk.com](mailto:mrkursin@vk.com) or [LinkedIn](insert-your-linkedin-url).
+Reach me at [mrkursin@vk.com](mailto:mrkursin@vk.com) or [LinkedIn](www.linkedin.com/in/roman-kursin-81343534b).
