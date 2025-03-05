@@ -21,8 +21,6 @@ These scripts:
 2. Open in IntelliJ IDEA.
 3. Ensure Java and Gradle are installed. I have used Java: v. 17.0.12 and Gradle 7.4
 4. Run a test on MainPageTest.java
-## Next Steps
-- Add more test cases for complex scenarios.
 
 ## VIDEO
 [Link](https://drive.google.com/file/d/1prx0hkwdoEd5vE2C7I2p9Q3F50WHHI0A/view?usp=sharing).
